@@ -15,3 +15,5 @@ Crie um jogo para duas pessoas conseguirem jogar batalha naval no console.
 5. Utiliza como base um mapa 20 x 20.
 
 6. Subir projeto no github e enviar o link como resposta.
+
+<img src="https://cdn.pixabay.com/photo/2017/10/16/23/00/boat-2858982__480.png" width="400" height="400"/>
